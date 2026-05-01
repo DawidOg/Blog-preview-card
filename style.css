@@ -1,0 +1,76 @@
+@font-face {
+    font-family: figtreeVariable;
+    src: url("src/fonts/Figtree-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: figtreeItalic;
+    src: url("src/fonts/Figtree-Italic-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: figtreeMedium;
+    src: url("src/fonts/static/Figtree-Medium.ttf");
+    font-weight: medium;
+}
+
+@font-face {
+    font-family: figtreeExtraBold;
+    src: url("src/fonts/static/Figtree-ExtraBold.ttf");
+    font-weight: bold;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background-color: #F4D04E;
+    font-family: figtreeVariable;
+}
+
+#card {
+    border: 1px solid black;
+    width: 390px;
+    margin-top: 15%;
+    height: 535px;
+    padding: 25px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 8px 10px;
+}
+
+#category {
+    font-weight: bold;
+    background-color: #F4D04E;
+    font-size: 16px;
+    width: 65px;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+#card img {
+    border-radius: 20px;
+}
+
+#text {
+    color: #6B6B6B;
+    font-size: 20px;
+}
+
+#profile-el{
+    display: flex;
+    align-items: center;
+}
+
+#profile-el img {
+    width: auto;
+    height: 42px;
+}
+
+#profile-el p {
+    margin-left: 16px;
+    font-weight: bold;
+    font-size: 20px;
+}
