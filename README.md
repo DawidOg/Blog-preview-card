@@ -24,7 +24,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/DawidOg/Blog-preview-card](https://github.com/DawidOg/Blog-preview-card)
-- Live Site URL: [Dodaj tutaj link, np. z Netlify/GitHub Pages]
+- Live Site URL: [https://comfy-selkie-c42757.netlify.app](https://comfy-selkie-c42757.netlify.app)
 
 ## 🛠️ My process
 
